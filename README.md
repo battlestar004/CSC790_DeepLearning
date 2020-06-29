@@ -13,6 +13,6 @@ Techniques in deep learning including Convolutional Neural Network. This project
 * Data Augmentation
 * Drop Out
 
-#### Optimizers
-** Adam
-** SGD
+### Optimizers
+* Adam
+* SGD (Stochastic Gradient Descent)
