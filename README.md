@@ -7,3 +7,12 @@ Techniques in deep learning including Convolutional Neural Network. This project
 [Acknowledgements](https://github.com/thevickypedia/CSC790_DeepLearning/blob/master/Acknowledgements.txt)
 
 [Dataset](https://www.kaggle.com/tomerel/traffic-signs-pickled-dataset/download)
+
+### Concepts Used:
+* Batch Normalization
+* Data Augmentation
+* Drop Out
+
+#### Optimizers
+** Adam
+** SGD
