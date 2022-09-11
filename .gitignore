@@ -1,0 +1,15 @@
+# pickeld dataset
+test.p
+train.p
+valid.p
+
+# checkpoints
+.ipynb_checkpoints
+checkpoint
+
+# architecutre sessions
+lenet.*
+
+# others
+.idea
+venv
