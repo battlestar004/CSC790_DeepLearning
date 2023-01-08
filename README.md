@@ -2,11 +2,9 @@
 
 ## Traffic Signs Classifier
 
-Techniques in deep learning including Convolutional Neural Network. This project was meant for learning image classification using Convolutional Neural Networks.
-
-[Acknowledgements](https://github.com/thevickypedia/CSC790_DeepLearning/blob/master/Acknowledgements)
-
-[Dataset](https://www.kaggle.com/tomerel/traffic-signs-pickled-dataset/download)
+This project was meant for learning image classification using Convolutional Neural Networks.
+Additionally, compare results between [Adam](https://keras.io/api/optimizers/adam/) and
+[SGD](https://keras.io/api/optimizers/sgd/) optimizers.
 
 ### Concepts Used:
 * Batch Normalization
@@ -16,3 +14,12 @@ Techniques in deep learning including Convolutional Neural Network. This project
 ### Optimizers
 * Adam
 * SGD (Stochastic Gradient Descent)
+
+### Project Report
+[Final Report](materials/report/CSC790_TrafficSignClassifier_Final_Report.docx)
+[Presentation](materials/report/CSC790_TrafficSignClassifier_Slides.pptx)
+
+### Results
+[results-dump](materials/results)
+
+###### [Notes and credits](materials/markdown)
